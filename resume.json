@@ -21,35 +21,23 @@
     {
       "edu_time": ["2010.09.01", "2014.07.01"],
       "school": "兰州城市学院",
-      "major": "网络工程",
-      "academic_degree": "本科",
+      "major": "本科",
+      "academic_degree": "",
       "dataIndex": 0
     }
   ],
-  "awardList": [
-    { "award_info": "英语 CET6", "award_time": "2015" },
-    { "award_info": "蚂蚁近卫军 卓越个人奖", "award_time": "2018.09" },
-    { "award_info": "前端练习生 可视化讲师", "award_time": "2020.10" },
-    { "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”", "award_time": "2021.07" }
-  ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
-      "work_time": ["2018.06", null],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "company_name": "赞同科技股份有限公司",
+      "department_name": "解决方案部",
+      "work_time": ["2017.09", null],
+      "work_desc": "负责解决方案研发部运营系统的研发，系统设计"
     },
     {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
-      "work_time": ["2017.06", "2017.12"],
-      "work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
-    },
-    {
-      "company_name": "数沃信息科技有限公司",
-      "department_name": "234",
-      "work_time": ["2017.03", "2017.05"],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+      "company_name": "北京顺为互联科技有限公司",
+      "department_name": "科技部",
+      "work_time": ["2016.07", "2017.08"],
+      "work_desc": "主要参与短信平台建设"
     }
   ],
   "skillList": [],
@@ -57,7 +45,7 @@
     {
       "project_name": "交通银行信用卡中心前端框架项目",
       "project_role": "前端负责人",
-      "project_time": "123",
+      "project_time": "",
       "project_desc": "基于微前端（qiankun）框架搭建的运营平台。",
       "project_content": "\n1.搭建基座（主应用），支持挂载多个微应用，沙箱、样式隔离\n2.搭建模板应用（微应用），可高效开发业务，可扩展性以及复用性强 \n3.UI 组件框架搭建以及开发，公共组件分为原子组件、业务组件、页面级组件 \n4.SDK 工程的搭建，其中开发了数据共享、通讯、埋点等 \n5.编写软件需求、培训、项目汇报等文档"
     },
